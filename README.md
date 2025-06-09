@@ -7,5 +7,9 @@
 3. Стол поставлен на барашки и пружины (в меню есть пункт калибровки стола по четырем точкам).
 4. По одной из схем собирал кабель подключения материнки и дисплея (понадобились дюпоны мама-мама). Родной кабель не подойдет!
 5. Корпус из ABS-пластика.
+6. Для прошивки понадобится Arduino Uno, 6 дюпонов, Arduino IDE, кабель USB
+   (прошивал по этому видео Сергея Ирбисв - https://www.youtube.com/watch?v=XBeArL9pDWQ&ab_channel=SergeyIrbis ) Большое ему спасибо!
+
+   
 ![image](https://github.com/user-attachments/assets/27338f67-10a2-4950-b04b-74c5fd7886e9)
 ![image](https://github.com/user-attachments/assets/1638b83a-3fce-4b41-b58d-f0c520ebd45e)
