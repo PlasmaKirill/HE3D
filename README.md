@@ -8,3 +8,4 @@
 4. По одной из схем собирал кабель подключения материнки и дисплея (понадобились дюпоны мама-мама). Родной кабель не подойдет!
 5. Корпус из ABS-пластика.
 ![image](https://github.com/user-attachments/assets/27338f67-10a2-4950-b04b-74c5fd7886e9)
+![image](https://github.com/user-attachments/assets/1638b83a-3fce-4b41-b58d-f0c520ebd45e)
